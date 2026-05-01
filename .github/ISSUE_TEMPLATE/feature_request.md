@@ -30,12 +30,12 @@ assignees: ""
 
 ## 📦 관련 레포지토리/모듈
 
-- [ ] tool-assistant
-- [ ] tool-assistant-perception
-- [ ] tool-assistant-datasets
-- [ ] tool-assistant-docs
-- [ ] tool-assistant-vla
-- [ ] tool-assistant-simulation
+- [ ] macgyvbot-assistant
+- [ ] macgyvbot-perception
+- [ ] macgyvbot-datasets
+- [ ] macgyvbot-docs
+- [ ] macgyvbot-vla
+- [ ] macgyvbot-simulation
 - 관련 모듈:
 
 ## 📈 예상 난이도
